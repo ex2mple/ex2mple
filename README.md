@@ -39,8 +39,8 @@ Mostly experiments and side projects: [FastDeploy](https://github.com/ex2mple/Fa
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=ex2mple&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ex2mple&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ex2mple&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ex2mple&theme=tokyonight" alt="Top languages" />
 </div>
 
 ## Reach me
