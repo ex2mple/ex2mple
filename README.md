@@ -19,7 +19,7 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,html,css,nodejs,python,docker,git&perline=9" alt="TypeScript, JavaScript, Vue, HTML, CSS, Node.js, Python, Docker, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,vue,rxjs,html,css,python,fastapi,docker,git&perline=11" alt="TypeScript, JavaScript, Angular, Vue, RxJS, HTML, CSS, Python, FastAPI, Docker, Git" />
 </p>
 
 ## Things I build
@@ -28,26 +28,23 @@ Mostly experiments and side projects: [FastDeploy](https://github.com/ex2mple/Fa
 
 ## 🎧 On repeat
 
-<!-- TODO: замени на свои треки -->
 | # | Track | Artist |
 |---|-------|--------|
-| 1 | *your track here* | *artist* |
-| 2 | *your track here* | *artist* |
-| 3 | *your track here* | *artist* |
-| 4 | *your track here* | *artist* |
-| 5 | *your track here* | *artist* |
+| 1 | Matadora | — |
+| 2 | NOT ALONE | NEWLIGHTCHILD |
+| 3 | AGENT-PROVOCATEUR | NEWLIGHTCHILD |
+| 4 | Revelation | ÆSTRAL |
+| 5 | ALO ALO | DARÍO |
 
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ex2mple&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex2mple&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=ex2mple&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ex2mple&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages" />
 </div>
 
 ## Reach me
 
 <p>
   <a href="https://t.me/abraude"><img src="https://img.shields.io/badge/Telegram-@abraude-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/tbankintern"><img src="https://img.shields.io/badge/Channel-@tbankintern-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a>
-  <a href="mailto:dk1766454@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <a href="https://t.me/tbankintern"><img src="https://img.shields.io/badge/Channel-@tbankintern-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a></p>
