@@ -28,13 +28,24 @@ Mostly experiments and side projects: [FastDeploy](https://github.com/ex2mple/Fa
 
 ## 🎧 On repeat
 
-| # | Track | Artist |
-|---|-------|--------|
-| 1 | Matadora | — |
-| 2 | NOT ALONE | NEWLIGHTCHILD |
-| 3 | AGENT-PROVOCATEUR | NEWLIGHTCHILD |
-| 4 | Revelation | ÆSTRAL |
-| 5 | ALO ALO | DARÍO |
+<div align="center">
+
+### ♫ now playing
+
+**Matadora** — DJ Asul
+
+`1:07` ━━━━━━●──────────── `2:43`
+
+<kbd>⇄</kbd>&nbsp;&nbsp;<kbd>⏮</kbd>&nbsp;&nbsp;<kbd>❚❚</kbd>&nbsp;&nbsp;<kbd>⏭</kbd>&nbsp;&nbsp;<kbd>↻</kbd>
+
+*up next*
+
+`02` &nbsp;NOT ALONE — NEWLIGHTCHILD<br>
+`03` &nbsp;AGENT-PROVOCATEUR — NEWLIGHTCHILD<br>
+`04` &nbsp;Revelation — ÆSTRAL<br>
+`05` &nbsp;ALO ALO — DARÍO
+
+</div>
 
 ## Stats
 
