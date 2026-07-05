@@ -32,20 +32,20 @@ Mostly experiments and side projects: [FastDeploy](https://github.com/ex2mple/Fa
 
 ### ♫ now playing
 
-**Matadora** — DJ Asul
+**NOT ALONE** — NEWLIGHTCHILD
 
 `1:07` ━━━━━━●──────────── `2:43`
 
 <kbd>⇄</kbd>&nbsp;&nbsp;<kbd>⏮</kbd>&nbsp;&nbsp;<kbd>❚❚</kbd>&nbsp;&nbsp;<kbd>⏭</kbd>&nbsp;&nbsp;<kbd>↻</kbd>
 
+</div>
+
 *up next*
 
-`02` &nbsp;NOT ALONE — NEWLIGHTCHILD<br>
+`02` &nbsp;Matadora — DJ Asul<br>
 `03` &nbsp;AGENT-PROVOCATEUR — NEWLIGHTCHILD<br>
 `04` &nbsp;Revelation — ÆSTRAL<br>
 `05` &nbsp;ALO ALO — DARÍO
-
-</div>
 
 ## Stats
 
